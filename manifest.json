@@ -1,0 +1,19 @@
+{
+    "name": "My Website",
+    "short_name": "MyWebsite",
+    "icons": [
+      {
+        "src": "icon.svg",
+        "type": "image/svg+xml",
+        "sizes": "192x192"
+      },
+      {
+        "src": "icon.svg",
+        "type": "image/svg+xml",
+        "sizes": "512x512"
+      }
+    ],
+    "start_url": "/static/index.html",
+    "display": "standalone"
+  }
+  
